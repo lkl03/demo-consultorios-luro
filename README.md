@@ -1,2 +1,7 @@
-# demo-consultorios-luro
-Demo web para Consultorios Luro — diseñada por eterlab.
+# Consultorios Luro
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
